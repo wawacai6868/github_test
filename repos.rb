@@ -2,6 +2,8 @@ require 'grit'
 require 'rugged'
 require 'colored'
 
+IGNORE = /^\.git\/?|\.{1,2}$/
+
 def print_git
   puts "Untracked files according to git: \n".yellow
   system('git status')
@@ -15,10 +17,15 @@ def print_grit
 end
 
 def print_rugged
-  puts "Untracked files according to rugged: \n".yellow
+  puts "Files not index by rugged: (manually calculated) \n".yellow
 
   rugged_repo = Rugged::Repository.new('.')
-  index = rugged_repo.index
+  index       = rugged_repo.index
+
+  index_files = index.map { |i| i[:path] }
+  file_system = Dir.glob('**/*', File::FNM_DOTMATCH).reject! { |f| f =~ IGNORE }
+
+  puts file_system - index_files
 end
 
 def hr
