@@ -1,3 +1,4 @@
+require 'git'
 require 'grit'
 require 'rugged'
 require 'colored'
@@ -5,19 +6,37 @@ require 'colored'
 IGNORE = /^\.git\/?|\.{1,2}$/
 
 def print_git
-  puts "Untracked files according to git: \n".yellow
+  puts "System git: \n".yellow
   system('git status')
 end
 
+def print_git_gem
+  puts "git gem: \n".yellow
+
+  git_repo = Git.open('.')
+
+  puts "changed\n\n"
+  puts git_repo.status.changed.keys
+
+  puts "\n"
+
+  puts "untracked\n\n"
+  puts git_repo.status.untracked.keys
+end
+
 def print_grit
-  puts "Untracked files according to grit: \n".yellow
+  puts "grit gem: \n".yellow
+
+  puts "untracked\n\n"
 
   grit_repo = Grit::Repo.new('.')
   puts grit_repo.status.untracked.keys.join("\n")
 end
 
 def print_rugged
-  puts "Files not index by rugged: (manually calculated) \n".yellow
+  puts "rugged gem: \n".yellow
+
+  puts "untracked\n\n"
 
   rugged_repo = Rugged::Repository.new('.')
   index       = rugged_repo.index
@@ -35,6 +54,10 @@ end
 # ==================================================
 
 print_git
+
+hr
+
+print_git_gem
 
 hr
 
