@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"112","ios_url":"https:\/\/cdntg.28quan.top:1080\/ios_update","applePlist_url":"https:\/\/baowang.wangcai28.com:9987\/300\/ios.plist","other":",aHR0cHM6Ly9hcHByZWFkeS4yOHF1YW4udmlwOjIwMDUsaHR0cHM6Ly9hcHByZWFkeS4yOHF1YW4udmlwOjIwMDU=,","thirdLoginEnable":"0"}]}}

@@ -1,0 +1,25 @@
+[
+ 
+	{ 
+    	"line_name": "线路一",
+    	"api": "http://qsxa.hsbmxx.com/api",
+		"websocket_home": "ws://home.hsbmxx.com",
+		"websocket_fruit": "ws://fruit.hsbmxx.com",
+		"websocket_animal": "ws://fruit.hsbmxx.com",
+		"websocket_boom": "ws://home.hsbmxx.com,
+		"websocket_niuniu": "ws://niuniu.hsbmxx.com",
+		"websocket_texas": "ws://texas.hsbmxx.com",
+		"websocket_landlords": "ws://andlords.hsbmxx.com"
+	},
+	   { 
+    	"line_name": "线路二,
+    	"api": "http://qaza.qipa28.com:9900/api",
+		"websocket_home": "ws://home.oinscc.com:8880",
+		"websocket_fruit": "ws://fruit.oinscc.com:8880",
+		"websocket_animal": "ws://fruit.oinscc.com:8880",
+		"websocket_boom": "ws://home.oinscc.com:8880",
+		"websocket_niuniu": "ws://niuniu.oinscc.com:8880",
+		"websocket_texas": "ws://texas.oinscc.com:8880",
+		"websocket_landlords": "ws://landlords.oinscc.com:8880"
+	}
+]
