@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"178","android_url":"https://app.kjzoo.com/7c/app/C7_178.apk","other":",aHR0cHM6Ly9uZXdhcHA3Yy5qeGlhb3llLmNvbSxodHRwczovL25ld2FwcDdjLmp4aWFveWUuY29tLGh0dHBzOi8vbmV3YXBwN2MuanhpYW95ZS5jb20saHR0cHM6Ly9uZXdhcHA3Yy5qeGlhb3llLmNvbQ==","thirdLoginEnable":"0"}]}}
