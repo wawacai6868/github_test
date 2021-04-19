@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"491","ios_url":"https:\/\/app.ng28.top:1688\/ios_update","applePlist_url":"https:\/\/mbvgy.ng779.com:9776\/ng.plist","other":",aHR0cHM6Ly9uZXcxMDA5Lmp4aWFveWUuY29tLGh0dHBzOi8vbmV3MTAwOS5qeGlhb3llLmNvbSxodHRwczovL25ldzEwMDkuanhpYW95ZS5jb20saHR0cHM6Ly9uZXcxMDA5Lmp4aWFveWUuY29t","thirdLoginEnable":"0"}]}}
