@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"155","android_url":"https://app.iamfa.com/wangwang_155.apk","other":",aHR0cHM6Ly93YW50LmZhbmdtZW5nY2hlbi5jb20saHR0cHM6Ly93Y2FjdC5pbnRleGMuY29tLGh0dHBzOi8vd2FjdC54dHhzaG9wLmNvbSxodHRwczovL3dhbnRjLndhbmdkMS5jb20=","thirdLoginEnable":"0"}]}}
