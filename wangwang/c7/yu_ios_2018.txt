@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"178","ios_url":"http:\/\/app.qicai2018.com\/ios_update","applePlist_url":"https://zijianku.qc7771.com:9987/yu_ios.plist","other":",aHR0cHM6Ly9uZXdhcHA3Yy5qeGlhb3llLmNvbSxodHRwczovL25ld2FwcDdjLmp4aWFveWUuY29tLGh0dHBzOi8vbmV3YXBwN2MuanhpYW95ZS5jb20saHR0cHM6Ly9uZXdhcHA3Yy5qeGlhb3llLmNvbQ==","thirdLoginEnable":"0"}]}}

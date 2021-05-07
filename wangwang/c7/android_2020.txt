@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"210","android_url":"https://app.shierxie.com/c7/app/C7210.apk","other":",aHR0cHM6Ly9jc3l4ZG9uZS5jN29wcS54eXo6OTk5OSxodHRwczovL2NzeXhkdHdvLmM3b3BxLnh5ejo5OTk5LGh0dHBzOi8vZ3JheWFwcDEuYzdvcHEuaW5mbyxodHRwczovL2NzZ3R3by5jN29wcS5pbmZv","thirdLoginEnable":"0"}]}}

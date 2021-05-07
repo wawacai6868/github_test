@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"491","android_url":"https://app.shierxie.com/ng/app/ng_491.apk","other":",aHR0cHM6Ly9uZXcxMDA5Lmp4aWFveWUuY29tLGh0dHBzOi8vbmV3MTAwOS5qeGlhb3llLmNvbSxodHRwczovL25ldzEwMDkuanhpYW95ZS5jb20saHR0cHM6Ly9uZXcxMDA5Lmp4aWFveWUuY29t","thirdLoginEnable":"0"}]}}

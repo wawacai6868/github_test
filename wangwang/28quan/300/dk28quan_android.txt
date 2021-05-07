@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"150","android_url":"https://app.shierxie.com/300/app/28Q150.apk","other":",aHR0cHM6Ly90ZXl4ZG9uZS4yOHF1YW4uc2l0ZToxMDA1LGh0dHBzOi8vdGV5eGR0d28uMjhxdWFuLnNpdGU6MTAwNSxodHRwczovL3F1YW5nb25lLjI4cXVhbi5hcHAsaHR0cHM6Ly9xdWFuZ3R3by4yOHF1YW4uYXBw,","thirdLoginEnable":"0"}]}}

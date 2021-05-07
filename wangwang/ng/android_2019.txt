@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"492","android_url":"https://app.shierxie.com/ng/app/NG492.apk","other": ",aHR0cHM6Ly9zcHl4ZG9uZS56ZHRjcXMuY29tOjk5MDUsaHR0cHM6Ly9zcHl4ZHRoci56ZHRjcXMuY29tOjk5MDUsaHR0cHM6Ly9zcHl4ZHR3by56ZHRjcXMuY29tOjk5MDU=","thirdLoginEnable":"0"}]}}
